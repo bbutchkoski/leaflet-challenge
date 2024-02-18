@@ -1,14 +1,11 @@
 # leaflet-challenge
 This challenge is a project is an online application designed for visualizing earthquake data through Leaflet.js. This web-based tool accesses earthquake data from the USGS API and presents it on an interactive map. Users have the ability to navigate the map, adjust the zoom level, and click on the specific markers to access detailed information about each earthquake event.
 
-#instructions
+# instructions
 The instructions for this activity are broken into two parts:
 
-Part 1: Create the Earthquake Visualization
 
-Part 2: Gather and Plot More Data (Optional with no extra points earning)
-
-Part 1: Create the Earthquake Visualization
+# Part 1: Create the Earthquake Visualization
 2-BasicMap
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
