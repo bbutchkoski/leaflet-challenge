@@ -6,11 +6,11 @@ The instructions for this activity are broken into two parts:
 
 
 # Part 1: Create the Earthquake Visualization
-2-BasicMap
+
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
-Get your dataset. To do so, follow these steps:
+1. Get your dataset. To do so, follow these steps:
 
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 3-Data
